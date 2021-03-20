@@ -1,0 +1,39 @@
+body {
+    padding: 10px;
+}
+
+#createButton{
+    color:white;
+    text-decoration:none;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#pageTitle{
+    text-align: center
+}
+
+#takeButton{
+    color:white;
+    text-decoration:none;
+    padding-left: 27px;
+    padding-right: 27px;
+}
+
+.buttonSpacing{
+    margin:20px;
+    text-align: center
+}
+
+.centerContainer{
+    height: 50%;
+    width: 80%;
+    
+	position: absolute;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+  	
+	margin: auto;
+}

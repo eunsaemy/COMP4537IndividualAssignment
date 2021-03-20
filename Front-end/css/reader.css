@@ -1,0 +1,25 @@
+body {
+    padding: 10px;
+}
+
+#theContainer {
+    width: 90%;
+}
+
+.btn {
+    margin: 5px;
+}
+
+.bodyTA {
+    margin: 10px;
+    resize: none;
+    height: 150px;
+    width: 600px;
+}
+
+.sourceTA {
+    margin: 10px;
+    resize: none;
+    height: 150px;
+    width: 200px;
+}
